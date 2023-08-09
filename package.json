@@ -18,6 +18,7 @@
     "vite-plugin-ejs": "^1.4.4"
   },
   "dependencies": {
+    "import-map-overrides": "^3.0.0",
     "single-spa": "^5.9.3"
   }
 }
